@@ -31,5 +31,7 @@ Mecanismo de Trava Físico: A trava é operada por um Servo Motor, que programei
 # Como usar
 
 Faça o upload do código do arquivo src/cofreeletronico.ino para o seu Arduino.
+
 Ligue o sistema.
+
 O sistema pedirá para criar uma senha para o seu cofre eletrônico. 

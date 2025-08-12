@@ -26,7 +26,7 @@ Mecanismo de Trava Físico: A trava é operada por um Servo Motor, que programei
 
 # Montagem
 
-![Montagem do Circuito do Cofre Eletrônico](C:\Users\sarav\OneDrive\Documentos\GitHub\cofre_eletronico\img\cofreeletro.png)
+![Montagem do Circuito do Cofre Eletrônico](README.mdimg\cofreeletro.png)
 
 # Como usar
 
